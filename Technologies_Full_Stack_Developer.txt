@@ -3,25 +3,45 @@ Technology Stack for Full Stack Web Developer (3+)
 
 UI Technologies
 ----------------
-HTML -> for structuring of the webpage
-CSS  -> for presentation of the webpage
-JavaScript -> for producing Dynamic content using DOM Manipulation
+HTML5 -> for structuring of the webpage
+CSS3  -> for presentation of the webpage
+JavaScript(ES6 to ES10) -> for producing Dynamic content using DOM Manipulation
 JQuery -> Library of JavaScript for dynamic data like JS
 AJAX -> for Asyncronous calls with server
-Bootstrap -> for Responsiveness and Mobile friendly applications
-TypeScript -> a superset of JavaScript with fully Object oriented
-Angular JS / Angular -> for MVC architecture and two way data binding.
- 
+Bootstrap4 -> for Responsiveness and Mobile friendly applications
+Sass -> CSS Pre-processor
+Less -> CSS Pre-processor
+TypeScript3+ -> a superset of JavaScript with fully Object oriented
+React JS -> for View layer in MVC architecture and one way data binding.
+Redux -> Predictable State container for handling state data in React App.
+Core Java -> Java Language
+JSP -> Java Server Pages for generating html pages
+
+Web Data Formats
+----------------
+JSON -> JavaScript Object Notation (latest mostly used with js)
+XML -> Extensible Markup Language (oldest mostly used with java technologies)
+
 Serverside Technologies
 ------------------------
 Node JS -> for serverside JavaScript for serverside processing
 Express JS -> Library of Node JS for serverside processing
+Servlet -> for serverside java technology
+JSF -> Java Server Faces for server side java apps
+Hybernate -> Framework for Datbase connectiviy with Java Apps.
+Spring -> MVC Framework for Java Applications
+JDBC -> Java Database Connectivity
+Struts -> For MVC Architecture
 
 Databases
 ---------
 Mongo DB -> for No-SQL database
 Fire Base -> cloud based No-SQL database
-MySQL -> Relational Database
+MySQL -> Relational Database(ORM)
+
+ODM Frameworks
+---------------
+Mongoose.js -> Object Data Modeling (ODM) library for MongoDB and Node.js
 
 Testing Frameworks
 ------------------
@@ -30,6 +50,11 @@ Sinon -> for Unit Testing
 Jasmine -> for Unit Testing
 Karma -> for Unit Testing
 Protractor -> for Integration Testing
+JUnit -> For Uint Testing Java Applications
+
+WebServer
+----------
+Nginx -> webserver to serve static files.
 
 Code Coverage Tools
 -------------------
@@ -37,7 +62,15 @@ Istanbul -> for code coverage
 
 Build Tools
 -----------
-Git  / Gulp -> for building the application
+Grunt  / Gulp -> for building the application
+Webpack -> module bundler
+babel -> transpiler for jsx
+Vim -> Programmer's editor used in linux/unix/Ubuntu
+Bash Scripting
+Docker
+DevOps
+Ant -> For Java Apps
+Maven -> For Java Apps
 
 Live Reload of Code
 ------------------
@@ -56,9 +89,8 @@ Dreamweaver -> Adobe Systems
 
 Code Repositories
 -----------------
-CVS / SVN
-Github Enterprise
-IBM Clear Case
+Github
+Amazon Web Services(AWS)
 
 Graphs & Charts
 ---------------
@@ -67,11 +99,8 @@ C3.js
 
 Optional Technologies
 ----------------------
-React JS
-Ember JS
-BackBone JS
-Vue JS
-Ext JS
+React Native
+Electron JS
 Photoshop skills
 
 Development Methodology
@@ -83,68 +112,3 @@ Project / Task Updates
 ----------------------
 JIRA website
 Daily Standup meetings
-
-
-
-
-		
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
