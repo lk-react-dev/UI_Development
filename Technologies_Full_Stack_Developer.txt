@@ -43,6 +43,11 @@ ODM Frameworks
 ---------------
 Mongoose.js -> Object Data Modeling (ODM) library for MongoDB and Node.js
 
+Authentication
+--------------
+OAuth2.0
+JWT[JSON Web Token]
+
 Testing Frameworks
 ------------------
 Mocha -> for Unit Testing
