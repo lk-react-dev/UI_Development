@@ -14,30 +14,36 @@ Less -> CSS Pre-processor
 TypeScript3+ -> a superset of JavaScript with fully Object oriented
 React JS -> for View layer in MVC architecture and one way data binding.
 Redux -> Predictable State container for handling state data in React App.
-Core Java -> Java Language
-JSP -> Java Server Pages for generating html pages
+Next JS -> for View layer in MVC architecture and one way data binding. An Extension to React JS.
+
+Graphs & Charts
+---------------
+D3.js
+C3.js
+
+Optional Technologies
+----------------------
+React Native
+Electron JS
 
 Web Data Formats
 ----------------
 JSON -> JavaScript Object Notation (latest mostly used with js)
-XML -> Extensible Markup Language (oldest mostly used with java technologies)
 
 Serverside Technologies
 ------------------------
 Node JS -> for serverside JavaScript for serverside processing
 Express JS -> Library of Node JS for serverside processing
-Servlet -> for serverside java technology
-JSF -> Java Server Faces for server side java apps
-Hybernate -> Framework for Datbase connectiviy with Java Apps.
-Spring -> MVC Framework for Java Applications
-JDBC -> Java Database Connectivity
-Struts -> For MVC Architecture
 
 Databases
 ---------
 Mongo DB -> for No-SQL database
 Fire Base -> cloud based No-SQL database
 MySQL -> Relational Database(ORM)
+
+Caching
+--------
+Redis -> for dabatase caching
 
 ODM Frameworks
 ---------------
@@ -50,12 +56,9 @@ JWT[JSON Web Token]
 
 Testing Frameworks
 ------------------
-Mocha -> for Unit Testing
-Sinon -> for Unit Testing
-Jasmine -> for Unit Testing
-Karma -> for Unit Testing
-Protractor -> for Integration Testing
-JUnit -> For Uint Testing Java Applications
+Jest -> for Unit Testing
+Mocha -> fo Unit Testing
+Cypress IO -> for Unit Testing
 
 WebServer
 ----------
@@ -74,8 +77,6 @@ Vim -> Programmer's editor used in linux/unix/Ubuntu
 Bash Scripting
 Docker
 DevOps
-Ant -> For Java Apps
-Maven -> For Java Apps
 
 Live Reload of Code
 ------------------
@@ -97,21 +98,10 @@ Code Repositories
 Github
 Amazon Web Services(AWS)
 
-Graphs & Charts
----------------
-D3.js
-C3.js
-
-Optional Technologies
-----------------------
-React Native
-Electron JS
-Photoshop skills
-
 Development Methodology
 -----------------------
 Agile Methodology
-		-> Scrum Model
+    -> Scrum Model
 		
 Project / Task Updates
 ----------------------
